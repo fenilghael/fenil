@@ -32,3 +32,12 @@ You can add multiple line using three tics.
 ```javascript
 var test = "string"
 ```
+
+## tables
+
+Column 1 | Column 2
+
+-- | --
+
+Row 1  | Row 2
+Row 2  | Row 1     
