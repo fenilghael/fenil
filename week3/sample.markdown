@@ -25,10 +25,10 @@ My favorite search engine is (https://google.com)
 
 ## code
 
-You can add 'code' inline using a single tic.
+You can add `code` inline using a single tic.
 
 You can add multiple line using three tics.
 
-'''javascript
+```javascript
 var test = "string"
-'''
+```
