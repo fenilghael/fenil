@@ -20,4 +20,5 @@ My favorite search engine is (https://google.com)
 ## Images
 
 ![Github Logo](githu.jpg)
- <img src="images//githu.jpg"width="100" />
+
+<img src="githu.jpg"width="100" />
