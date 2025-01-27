@@ -13,3 +13,11 @@ This text is ***really important***
 1. Item 1
 2. Item 2
 
+## link
+
+My favorite search engine is (https://google.com)
+
+## Images
+
+! [Github Logo] (github.jpg)
+ <img src="images//github.jpg">width="100"/>
