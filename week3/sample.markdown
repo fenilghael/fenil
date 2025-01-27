@@ -21,4 +21,14 @@ My favorite search engine is (https://google.com)
 
 ![Github Logo](githu.jpg)
 
-<img src="githu.jpg"width="100" />
+<img src="githu.jpg" width="100"/>
+
+## code
+
+You can add 'code' inline using a single tic.
+
+You can add multiple line using three tics.
+
+'''javascript
+var test = "string"
+'''
